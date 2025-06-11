@@ -18,3 +18,4 @@ C:\Users\douglas.gcribeiro\source\repos\Kontaktoo\Kontaktoo\bin\Debug\EntityFram
 C:\Users\douglas.gcribeiro\source\repos\Kontaktoo\Kontaktoo\bin\Debug\System.Data.SQLite.xml
 C:\Users\douglas.gcribeiro\source\repos\Kontaktoo\Kontaktoo\obj\Debug\Kontaktoo.TelaInicial.resources
 C:\Users\douglas.gcribeiro\source\repos\Kontaktoo\Kontaktoo\obj\Debug\Kontaktoo.csproj.Up2Date
+C:\Users\douglas.gcribeiro\source\repos\Kontaktoo\Kontaktoo\obj\Debug\Kontaktoo.Cadastrar.resources

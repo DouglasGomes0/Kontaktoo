@@ -31,6 +31,8 @@
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(TelaInicial));
             this.dgvContatos = new System.Windows.Forms.DataGridView();
             this.grbAdicionar = new System.Windows.Forms.GroupBox();
+            this.lblEmail = new System.Windows.Forms.Label();
+            this.txbEmail = new System.Windows.Forms.TextBox();
             this.btnAdicionar = new System.Windows.Forms.Button();
             this.lblEndereco = new System.Windows.Forms.Label();
             this.lblTelefone = new System.Windows.Forms.Label();
@@ -41,8 +43,7 @@
             this.lblTitulo = new System.Windows.Forms.Label();
             this.pibLogo = new System.Windows.Forms.PictureBox();
             this.lblUsuario = new System.Windows.Forms.Label();
-            this.txbEmail = new System.Windows.Forms.TextBox();
-            this.lblEmail = new System.Windows.Forms.Label();
+            this.lblInfoRemover = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.dgvContatos)).BeginInit();
             this.grbAdicionar.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pibLogo)).BeginInit();
@@ -50,12 +51,19 @@
             // 
             // dgvContatos
             // 
+            this.dgvContatos.AllowUserToAddRows = false;
+            this.dgvContatos.AllowUserToDeleteRows = false;
+            this.dgvContatos.AllowUserToResizeColumns = false;
+            this.dgvContatos.AllowUserToResizeRows = false;
+            this.dgvContatos.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
             this.dgvContatos.BackgroundColor = System.Drawing.Color.White;
             this.dgvContatos.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgvContatos.Location = new System.Drawing.Point(12, 275);
             this.dgvContatos.Name = "dgvContatos";
+            this.dgvContatos.ReadOnly = true;
             this.dgvContatos.Size = new System.Drawing.Size(776, 163);
             this.dgvContatos.TabIndex = 0;
+            this.dgvContatos.CellDoubleClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvContatos_CellDoubleClick);
             // 
             // grbAdicionar
             // 
@@ -74,6 +82,24 @@
             this.grbAdicionar.TabIndex = 1;
             this.grbAdicionar.TabStop = false;
             this.grbAdicionar.Text = "Adicionar";
+            // 
+            // lblEmail
+            // 
+            this.lblEmail.AutoSize = true;
+            this.lblEmail.Font = new System.Drawing.Font("Microsoft Sans Serif", 18.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblEmail.Location = new System.Drawing.Point(421, 66);
+            this.lblEmail.Name = "lblEmail";
+            this.lblEmail.Size = new System.Drawing.Size(85, 29);
+            this.lblEmail.TabIndex = 9;
+            this.lblEmail.Text = "Email:";
+            // 
+            // txbEmail
+            // 
+            this.txbEmail.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txbEmail.Location = new System.Drawing.Point(508, 66);
+            this.txbEmail.Name = "txbEmail";
+            this.txbEmail.Size = new System.Drawing.Size(262, 31);
+            this.txbEmail.TabIndex = 8;
             // 
             // btnAdicionar
             // 
@@ -176,30 +202,23 @@
             this.lblUsuario.TabIndex = 4;
             this.lblUsuario.Text = "name";
             // 
-            // txbEmail
+            // lblInfoRemover
             // 
-            this.txbEmail.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txbEmail.Location = new System.Drawing.Point(508, 66);
-            this.txbEmail.Name = "txbEmail";
-            this.txbEmail.Size = new System.Drawing.Size(262, 31);
-            this.txbEmail.TabIndex = 8;
-            // 
-            // lblEmail
-            // 
-            this.lblEmail.AutoSize = true;
-            this.lblEmail.Font = new System.Drawing.Font("Microsoft Sans Serif", 18.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblEmail.Location = new System.Drawing.Point(421, 66);
-            this.lblEmail.Name = "lblEmail";
-            this.lblEmail.Size = new System.Drawing.Size(85, 29);
-            this.lblEmail.TabIndex = 9;
-            this.lblEmail.Text = "Email:";
+            this.lblInfoRemover.AutoSize = true;
+            this.lblInfoRemover.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
+            this.lblInfoRemover.Location = new System.Drawing.Point(15, 441);
+            this.lblInfoRemover.Name = "lblInfoRemover";
+            this.lblInfoRemover.Size = new System.Drawing.Size(164, 13);
+            this.lblInfoRemover.TabIndex = 5;
+            this.lblInfoRemover.Text = "2 clicks para remover um contato";
             // 
             // TelaInicial
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(800, 460);
+            this.Controls.Add(this.lblInfoRemover);
             this.Controls.Add(this.lblUsuario);
             this.Controls.Add(this.pibLogo);
             this.Controls.Add(this.lblTitulo);
@@ -234,5 +253,6 @@
         private System.Windows.Forms.Label lblUsuario;
         private System.Windows.Forms.Label lblEmail;
         private System.Windows.Forms.TextBox txbEmail;
+        private System.Windows.Forms.Label lblInfoRemover;
     }
 }

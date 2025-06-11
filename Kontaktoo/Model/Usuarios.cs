@@ -39,9 +39,32 @@ namespace Kontaktoo.Model
             return tabela;
         }
 
-        public bool Cadastrar()
+        public int Cadastrar()
         {
-            return true; // apenas para parar de dar erros
+            // Instanciar e conectar ao banco:
+            Banco banco = new Banco();
+            banco.Conectar();
+
+            // Criar o objeto SQLiteCommand:
+            var cmd = banco.conexao.CreateCommand();
+
+            // Definir o comando SQL com parâmetros:
+            cmd.CommandText = "INSERT INTO usuarios (nome, email, senha) VALUES" +
+                " (@nome, @email, @senha)";
+
+            // Adicionar valores aos parâmetros:
+            cmd.Parameters.AddWithValue("@nome", this.Nome);
+            cmd.Parameters.AddWithValue("@email", this.Email);
+            cmd.Parameters.AddWithValue("@senha", this.Senha);
+
+            // Executar e capturar a quantidade de linhas inseridas/removidas:
+            int linhasAfetadas = cmd.ExecuteNonQuery();
+
+            // Desconectar
+            banco.Desconectar();
+
+            // Retornar a quantidade de linhas inseridas
+            return linhasAfetadas;
         }
     }
 }

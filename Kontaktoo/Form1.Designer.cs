@@ -36,6 +36,7 @@
             this.btnEntrar = new System.Windows.Forms.Button();
             this.lblTitulo = new System.Windows.Forms.Label();
             this.pibLogo = new System.Windows.Forms.PictureBox();
+            this.llaCadastrar = new System.Windows.Forms.LinkLabel();
             ((System.ComponentModel.ISupportInitialize)(this.pibLogo)).BeginInit();
             this.SuspendLayout();
             // 
@@ -85,7 +86,7 @@
             this.btnEntrar.BackColor = System.Drawing.Color.White;
             this.btnEntrar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnEntrar.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnEntrar.Location = new System.Drawing.Point(203, 246);
+            this.btnEntrar.Location = new System.Drawing.Point(212, 231);
             this.btnEntrar.Name = "btnEntrar";
             this.btnEntrar.Size = new System.Drawing.Size(171, 56);
             this.btnEntrar.TabIndex = 4;
@@ -115,12 +116,26 @@
             this.pibLogo.TabIndex = 6;
             this.pibLogo.TabStop = false;
             // 
+            // llaCadastrar
+            // 
+            this.llaCadastrar.AutoSize = true;
+            this.llaCadastrar.BackColor = System.Drawing.Color.Transparent;
+            this.llaCadastrar.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.llaCadastrar.Location = new System.Drawing.Point(191, 298);
+            this.llaCadastrar.Name = "llaCadastrar";
+            this.llaCadastrar.Size = new System.Drawing.Size(220, 17);
+            this.llaCadastrar.TabIndex = 7;
+            this.llaCadastrar.TabStop = true;
+            this.llaCadastrar.Text = "Não tem uma conta? Cadastre-se";
+            this.llaCadastrar.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.llaCadastrar_LinkClicked);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = global::Kontaktoo.Properties.Resources.OrangePink;
             this.ClientSize = new System.Drawing.Size(610, 323);
+            this.Controls.Add(this.llaCadastrar);
             this.Controls.Add(this.pibLogo);
             this.Controls.Add(this.lblTitulo);
             this.Controls.Add(this.btnEntrar);
@@ -148,6 +163,7 @@
         private System.Windows.Forms.Button btnEntrar;
         private System.Windows.Forms.Label lblTitulo;
         private System.Windows.Forms.PictureBox pibLogo;
+        private System.Windows.Forms.LinkLabel llaCadastrar;
     }
 }
 

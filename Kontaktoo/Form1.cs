@@ -60,5 +60,11 @@ namespace Kontaktoo
                 }
             }
         }
+
+        private void llaCadastrar_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            Cadastrar cadastrar = new Cadastrar();
+            cadastrar.ShowDialog();
+        }
     }
 }

@@ -3,36 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\douglas.gcribeiro\\source\\repos\\Kontaktoo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9E0CE2C9-841B-4F0B-A329-88F64F747B99}|Kontaktoo\\Kontaktoo.csproj|c:\\users\\douglas.gcribeiro\\source\\repos\\kontaktoo\\kontaktoo\\telainicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E0CE2C9-841B-4F0B-A329-88F64F747B99}|Kontaktoo\\Kontaktoo.csproj|solutionrelative:kontaktoo\\telainicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E0CE2C9-841B-4F0B-A329-88F64F747B99}|Kontaktoo\\Kontaktoo.csproj|c:\\users\\douglas.gcribeiro\\source\\repos\\kontaktoo\\kontaktoo\\model\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E0CE2C9-841B-4F0B-A329-88F64F747B99}|Kontaktoo\\Kontaktoo.csproj|solutionrelative:kontaktoo\\model\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E0CE2C9-841B-4F0B-A329-88F64F747B99}|Kontaktoo\\Kontaktoo.csproj|c:\\users\\douglas.gcribeiro\\source\\repos\\kontaktoo\\kontaktoo\\model\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9E0CE2C9-841B-4F0B-A329-88F64F747B99}|Kontaktoo\\Kontaktoo.csproj|C:\\Users\\douglas.gcribeiro\\source\\repos\\Kontaktoo\\kontaktoo\\model\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E0CE2C9-841B-4F0B-A329-88F64F747B99}|Kontaktoo\\Kontaktoo.csproj|solutionrelative:kontaktoo\\model\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E0CE2C9-841B-4F0B-A329-88F64F747B99}|Kontaktoo\\Kontaktoo.csproj|C:\\Users\\douglas.gcribeiro\\source\\repos\\Kontaktoo\\kontaktoo\\telainicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9E0CE2C9-841B-4F0B-A329-88F64F747B99}|Kontaktoo\\Kontaktoo.csproj|solutionrelative:kontaktoo\\telainicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{9E0CE2C9-841B-4F0B-A329-88F64F747B99}|Kontaktoo\\Kontaktoo.csproj|c:\\users\\douglas.gcribeiro\\source\\repos\\kontaktoo\\kontaktoo\\cadastrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E0CE2C9-841B-4F0B-A329-88F64F747B99}|Kontaktoo\\Kontaktoo.csproj|solutionrelative:kontaktoo\\cadastrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E0CE2C9-841B-4F0B-A329-88F64F747B99}|Kontaktoo\\Kontaktoo.csproj|C:\\Users\\douglas.gcribeiro\\source\\repos\\Kontaktoo\\kontaktoo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9E0CE2C9-841B-4F0B-A329-88F64F747B99}|Kontaktoo\\Kontaktoo.csproj|solutionrelative:kontaktoo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{9E0CE2C9-841B-4F0B-A329-88F64F747B99}|Kontaktoo\\Kontaktoo.csproj|c:\\users\\douglas.gcribeiro\\source\\repos\\kontaktoo\\kontaktoo\\cadastrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9E0CE2C9-841B-4F0B-A329-88F64F747B99}|Kontaktoo\\Kontaktoo.csproj|solutionrelative:kontaktoo\\cadastrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9E0CE2C9-841B-4F0B-A329-88F64F747B99}|Kontaktoo\\Kontaktoo.csproj|C:\\Users\\douglas.gcribeiro\\source\\repos\\Kontaktoo\\kontaktoo\\model\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E0CE2C9-841B-4F0B-A329-88F64F747B99}|Kontaktoo\\Kontaktoo.csproj|solutionrelative:kontaktoo\\model\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E0CE2C9-841B-4F0B-A329-88F64F747B99}|Kontaktoo\\Kontaktoo.csproj|c:\\users\\douglas.gcribeiro\\source\\repos\\kontaktoo\\kontaktoo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E0CE2C9-841B-4F0B-A329-88F64F747B99}|Kontaktoo\\Kontaktoo.csproj|solutionrelative:kontaktoo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E0CE2C9-841B-4F0B-A329-88F64F747B99}|Kontaktoo\\Kontaktoo.csproj|C:\\Users\\douglas.gcribeiro\\source\\repos\\Kontaktoo\\kontaktoo\\model\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E0CE2C9-841B-4F0B-A329-88F64F747B99}|Kontaktoo\\Kontaktoo.csproj|solutionrelative:kontaktoo\\model\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0CE2C9-841B-4F0B-A329-88F64F747B99}|Kontaktoo\\Kontaktoo.csproj|c:\\users\\douglas.gcribeiro\\source\\repos\\kontaktoo\\kontaktoo\\telainicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E0CE2C9-841B-4F0B-A329-88F64F747B99}|Kontaktoo\\Kontaktoo.csproj|solutionrelative:kontaktoo\\telainicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0CE2C9-841B-4F0B-A329-88F64F747B99}|Kontaktoo\\Kontaktoo.csproj|C:\\Users\\douglas.gcribeiro\\source\\repos\\Kontaktoo\\kontaktoo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9E0CE2C9-841B-4F0B-A329-88F64F747B99}|Kontaktoo\\Kontaktoo.csproj|solutionrelative:kontaktoo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9E0CE2C9-841B-4F0B-A329-88F64F747B99}|Kontaktoo\\Kontaktoo.csproj|C:\\Users\\douglas.gcribeiro\\source\\repos\\Kontaktoo\\kontaktoo\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
       "RelativeMoniker": "D:0:0:{9E0CE2C9-841B-4F0B-A329-88F64F747B99}|Kontaktoo\\Kontaktoo.csproj|solutionrelative:kontaktoo\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0CE2C9-841B-4F0B-A329-88F64F747B99}|Kontaktoo\\Kontaktoo.csproj|C:\\Users\\douglas.gcribeiro\\source\\repos\\Kontaktoo\\kontaktoo\\telainicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9E0CE2C9-841B-4F0B-A329-88F64F747B99}|Kontaktoo\\Kontaktoo.csproj|solutionrelative:kontaktoo\\telainicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0CE2C9-841B-4F0B-A329-88F64F747B99}|Kontaktoo\\Kontaktoo.csproj|C:\\Users\\douglas.gcribeiro\\source\\repos\\Kontaktoo\\kontaktoo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E0CE2C9-841B-4F0B-A329-88F64F747B99}|Kontaktoo\\Kontaktoo.csproj|solutionrelative:kontaktoo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,76 +50,75 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Contato.cs",
-              "DocumentMoniker": "C:\\Users\\douglas.gcribeiro\\source\\repos\\Kontaktoo\\Kontaktoo\\Model\\Contato.cs",
-              "RelativeDocumentMoniker": "Kontaktoo\\Model\\Contato.cs",
-              "ToolTip": "C:\\Users\\douglas.gcribeiro\\source\\repos\\Kontaktoo\\Kontaktoo\\Model\\Contato.cs",
-              "RelativeToolTip": "Kontaktoo\\Model\\Contato.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAswEgAAABCAAAAAAAAAA==",
+              "Title": "Cadastrar.cs",
+              "DocumentMoniker": "C:\\Users\\douglas.gcribeiro\\source\\repos\\Kontaktoo\\Kontaktoo\\Cadastrar.cs",
+              "RelativeDocumentMoniker": "Kontaktoo\\Cadastrar.cs",
+              "ToolTip": "C:\\Users\\douglas.gcribeiro\\source\\repos\\Kontaktoo\\Kontaktoo\\Cadastrar.cs",
+              "RelativeToolTip": "Kontaktoo\\Cadastrar.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowC8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T19:13:40.209Z",
+              "WhenOpened": "2025-06-11T19:45:57.412Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "Cadastrar.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\douglas.gcribeiro\\source\\repos\\Kontaktoo\\Kontaktoo\\Cadastrar.cs",
+              "RelativeDocumentMoniker": "Kontaktoo\\Cadastrar.cs",
+              "ToolTip": "C:\\Users\\douglas.gcribeiro\\source\\repos\\Kontaktoo\\Kontaktoo\\Cadastrar.cs [Design]",
+              "RelativeToolTip": "Kontaktoo\\Cadastrar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T19:27:35.218Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "TelaInicial.cs",
               "DocumentMoniker": "C:\\Users\\douglas.gcribeiro\\source\\repos\\Kontaktoo\\Kontaktoo\\TelaInicial.cs",
               "RelativeDocumentMoniker": "Kontaktoo\\TelaInicial.cs",
               "ToolTip": "C:\\Users\\douglas.gcribeiro\\source\\repos\\Kontaktoo\\Kontaktoo\\TelaInicial.cs",
               "RelativeToolTip": "Kontaktoo\\TelaInicial.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwDEAAABCAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-10T18:28:03.25Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\douglas.gcribeiro\\source\\repos\\Kontaktoo\\Kontaktoo\\Form1.cs",
-              "RelativeDocumentMoniker": "Kontaktoo\\Form1.cs",
-              "ToolTip": "C:\\Users\\douglas.gcribeiro\\source\\repos\\Kontaktoo\\Kontaktoo\\Form1.cs",
-              "RelativeToolTip": "Kontaktoo\\Form1.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAQwCwAAACBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T17:17:36.74Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Usuarios.cs",
               "DocumentMoniker": "C:\\Users\\douglas.gcribeiro\\source\\repos\\Kontaktoo\\Kontaktoo\\Model\\Usuarios.cs",
               "RelativeDocumentMoniker": "Kontaktoo\\Model\\Usuarios.cs",
               "ToolTip": "C:\\Users\\douglas.gcribeiro\\source\\repos\\Kontaktoo\\Kontaktoo\\Model\\Usuarios.cs",
               "RelativeToolTip": "Kontaktoo\\Model\\Usuarios.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCYAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAmwDsAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-09T20:05:31.048Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Banco.cs",
               "DocumentMoniker": "C:\\Users\\douglas.gcribeiro\\source\\repos\\Kontaktoo\\Kontaktoo\\Model\\Banco.cs",
               "RelativeDocumentMoniker": "Kontaktoo\\Model\\Banco.cs",
               "ToolTip": "C:\\Users\\douglas.gcribeiro\\source\\repos\\Kontaktoo\\Kontaktoo\\Model\\Banco.cs",
               "RelativeToolTip": "Kontaktoo\\Model\\Banco.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBgAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-09T19:52:46.415Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "TelaInicial.cs [Design]",
               "DocumentMoniker": "C:\\Users\\douglas.gcribeiro\\source\\repos\\Kontaktoo\\Kontaktoo\\TelaInicial.cs",
               "RelativeDocumentMoniker": "Kontaktoo\\TelaInicial.cs",
@@ -135,7 +142,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\douglas.gcribeiro\\source\\repos\\Kontaktoo\\Kontaktoo\\Form1.cs",
               "RelativeDocumentMoniker": "Kontaktoo\\Form1.cs",
@@ -144,6 +151,32 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-09T18:06:49.365Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Contato.cs",
+              "DocumentMoniker": "C:\\Users\\douglas.gcribeiro\\source\\repos\\Kontaktoo\\Kontaktoo\\Model\\Contato.cs",
+              "RelativeDocumentMoniker": "Kontaktoo\\Model\\Contato.cs",
+              "ToolTip": "C:\\Users\\douglas.gcribeiro\\source\\repos\\Kontaktoo\\Kontaktoo\\Model\\Contato.cs",
+              "RelativeToolTip": "Kontaktoo\\Model\\Contato.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAADwvy8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T19:13:40.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\douglas.gcribeiro\\source\\repos\\Kontaktoo\\Kontaktoo\\Form1.cs",
+              "RelativeDocumentMoniker": "Kontaktoo\\Form1.cs",
+              "ToolTip": "C:\\Users\\douglas.gcribeiro\\source\\repos\\Kontaktoo\\Kontaktoo\\Form1.cs",
+              "RelativeToolTip": "Kontaktoo\\Form1.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowEIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T17:17:36.74Z",
+              "EditorCaption": ""
             }
           ]
         }

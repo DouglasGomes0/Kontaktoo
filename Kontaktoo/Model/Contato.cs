@@ -54,7 +54,9 @@ namespace Kontaktoo.Model
             Banco banco = new Banco();
             banco.Conectar();          
             var cmd = banco.conexao.CreateCommand();         
-            cmd.CommandText = "SELECT * FROM Contatos";         
+            cmd.CommandText = "SELECT id, nome, email, telefone, endereco FROM Contatos " +
+                "WHERE id_responsavel=@id_responsavel";
+            cmd.Parameters.AddWithValue("@id_responsavel", this.idResponsavel);
             SQLiteDataAdapter da = new SQLiteDataAdapter(cmd);            
             da.Fill(tabela);            
             banco.Desconectar();           
